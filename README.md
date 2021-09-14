@@ -10,8 +10,8 @@ I'm Lucas Vieira, a DevOps Specialist based in Brazil.
   https://github.com/lucasp0r/lucasp0r-iac-public.git
 
 📫 How to reach me: 
-- Instragram: instragram.com/lucasp0r
-- Twitter: twitter.com/lucasp0rV2
+- Instragram: https://instragram.com/lucasp0r
+- Twitter: https://twitter.com/lucasp0rV2
 - Medium: https://lucasmarcelinovieira.medium.com/
 - Linkedin: https://www.linkedin.com/in/lucasvieirap0r/
 
