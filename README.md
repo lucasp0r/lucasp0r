@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Lucas Vieira, a DevOps Specialist based in Brazil.
+I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
-🔭 I’m currently working on Zup IT
+🔭 I’m currently working in Zup IT
 
 🤔 I’m looking to collaborate on IAC templates to community
 
