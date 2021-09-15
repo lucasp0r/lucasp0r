@@ -23,6 +23,8 @@ I'm Lucas Vieira, a DevOps Specialist based in Brazil.
   👉 [Linkedin](https://www.linkedin.com/in/lucasvieirap0r/)
 
 
+![Lucas Vieira GitHub status](https://github-readme-stats.vercel.app/api/?username=lucasp0r&count_private=true&show_icons=true&theme=dark)
+![Lucas Vieira most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lucasp0r&theme=dark&layout=compact)
 
 <!--
 **lucasp0r/lucasp0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
