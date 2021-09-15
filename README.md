@@ -3,8 +3,10 @@
 I'm Lucas Vieira, a DevOps Specialist based in Brazil.
 
 🔭 I’m currently working on Zup IT
+
 🤔 I’m looking to collaborate on IAC templates to community
-🌱 I’m currently learning everyday about Cloud Techs & DevOps, and also trying to provide the best fit for every cloud :)
+
+🌱 I’m currently learning everyday about Cloud Techs & DevOps and also trying to provide the best fit for every cloud :)
 
 ✨ My repo where i develop my solutions:
 
