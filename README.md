@@ -12,7 +12,7 @@ I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
      &nbsp; 👉 [IAC-Repo](https://github.com/lucasp0r/lucasp0r-iac-public.git)
 
-📫 <h3> How to reach me </h3>: 
+📫 <h3> How to reach me </h3>
 
   &nbsp; 👉 [Instagram](https://instragram.com/lucasp0r)
 
