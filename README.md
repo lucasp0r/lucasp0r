@@ -14,7 +14,7 @@ I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
 ### 📫 How to reach me 
 
-  - 👉 &nbsp; [Instagram](https://instragram.com/lucasp0r)
+  - 👉 &nbsp; [Instagram](https://instagram.com/lucasp0r)
 
   - 👉 &nbsp; [Twitter](https://twitter.com/lucasp0rV2)
 
