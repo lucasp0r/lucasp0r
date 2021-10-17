@@ -18,7 +18,7 @@ I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
   - 👉 &nbsp; [Twitter](https://twitter.com/lucasp0rV2)
 
-  - 👉 &nbsp; [Medium]()
+  - 👉 &nbsp; [Medium](https://lucasmarcelinovieira.medium.com/)
 
   - 👉 &nbsp; [Linkedin](https://www.linkedin.com/in/lucasvieirap0r/)
 
