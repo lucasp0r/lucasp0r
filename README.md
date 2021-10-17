@@ -8,7 +8,7 @@ I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
 - 🌱 &nbsp; I’m currently learning everyday about Cloud Techs & DevOps and also trying to provide the best fit for every cloud :)
 
-- ✨ &nbsp; My repo where i develop my solutions:
+- ✨ &nbsp; My repo where i develop my IAC solutions:
 
      - 👉 &nbsp; [IAC-Repo](https://github.com/lucasp0r/lucasp0r-iac-public.git)
 
