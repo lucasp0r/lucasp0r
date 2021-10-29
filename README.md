@@ -4,8 +4,6 @@ I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
 - 🔭 &nbsp; I’m currently working in Zup IT
 
-- 🤔 &nbsp; I’m looking to collaborate on IAC templates to community
-
 - 🌱 &nbsp; I’m currently learning everyday about Cloud Techs & DevOps and also trying to provide the best fit for every cloud :)
 
 - ✨ &nbsp; My repo where i develop my IAC solutions:
