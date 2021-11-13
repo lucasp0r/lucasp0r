@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
 
-### Hi there 👋
+### Hi Devs, 
 
-  I'm Lucas Vieira, a DevOps Specialist living in Brazil.
+  I'm Lucas Vieira, a DevOps Specialist living in Brazil i have been working with devops for 4 years, and in IT area 9 years. I started in development/support area, after 2 years i switched to infrasctructure where after a few years working with the common infrastructure, i decided to move to the Cloud, where I fell even more in love with the area :D
 
 - 🔭 &nbsp; I’m currently working in Zup IT
 
@@ -33,11 +32,13 @@
   - 👉 &nbsp; [Telegram](https://t.me/joinchat/Cd-SEALZeg9iZWY5)
 
 
+![lencois](https://user-images.githubusercontent.com/21229105/141657554-8d1ff427-2cc2-4993-a0a0-26294aea03cd.png)
+
+
+
+
+### My github stats.
+
 
 ![Lucas Vieira GitHub status](https://github-readme-stats.vercel.app/api/?username=lucasp0r&count_private=true&show_icons=true&theme=dark)
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-```
