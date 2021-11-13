@@ -3,7 +3,7 @@
 
 ![lencois](https://user-images.githubusercontent.com/21229105/141657554-8d1ff427-2cc2-4993-a0a0-26294aea03cd.png)
 
-  I'm Lucas Vieira, a DevOps Specialist living in Brazil, i have been working with devops belong 4 years, and in Technology area 9 years. I started in development/support, after 2 years i switched to infrasctructure where after a few years working with the common infrastructure, i decided to move to the Cloud, where I fell even more in love with the IT :D
+  I'm Lucas Vieira, a DevOps Specialist living in Brazil, i have been working with devops belong 4 years, and in Technology area 9 years. I started in development/support, after 2 years i switched to infrasctructure where after a few years working with the common infrastructure. Soo I decided to move to the Cloud/DevOps, where I fell even more in love with the IT :D
 
 - 🔭 &nbsp; I’m currently working in Zup IT
 
@@ -25,7 +25,7 @@
 
 ### My Community Project
 
-  I'm trying to help peoples to enter in technology area, in Brazil, most part of the population dont have a guidance to study. Actually we have had a défict for 500k workers in IT by year. We need more education because more people can enjoy in IT, and that is my proposite with @devsdobem.
+  I'm trying to help peoples to enter in technology area in Brazil, most part of the population dont have a guidance to study. Actually we have had a défict for 500k workers in IT by year. We need people with knownledge in IT, and that is my proposite with @devsdobem. Helping people with what I learned.
 
   - 👉 &nbsp; [Instagram](https://www.instagram.com/devsdobem/)
 
