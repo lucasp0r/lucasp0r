@@ -1,37 +1,43 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lucasp0r/lucasp0r/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Hi there 👋
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
-### Markdown
+- 🔭 &nbsp; I’m currently working in Zup IT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🌱 &nbsp; I’m currently learning everyday about Cloud Techs & DevOps and also trying to provide the best fit for every cloud :)
 
-```markdown
-Syntax highlighted code block
+- ✨ &nbsp; My repo where i develop my IAC solutions:
 
-# Header 1
-## Header 2
-### Header 3
+     - 👉 &nbsp; [IAC-Repo](https://github.com/lucasp0r/lucasp0r-iac-public.git)
 
-- Bulleted
-- List
+### 📫 How to reach me 
 
-1. Numbered
-2. List
+  - 👉 &nbsp; [Instagram](https://instagram.com/lucasp0r)
+
+  - 👉 &nbsp; [Twitter](https://twitter.com/lucasp0rV2)
+
+  - 👉 &nbsp; [Medium](https://lucasmarcelinovieira.medium.com/)
+
+  - 👉 &nbsp; [Linkedin](https://www.linkedin.com/in/lucasvieirap0r/)
+
+### My Community Project
+
+  I'm trying to help peoples to enter in technology area, in Brazil, most part of the population dont have a guidance to study. Actually we have had a défict for 500k workers in IT by year. We need more education because more people can enjoy in IT, and that is my proposite with @devsdobem.
+
+  - 👉 &nbsp; [Instagram](https://www.instagram.com/devsdobem/)
+
+  - 👉 &nbsp; [Twitter](https://twitter.com/devsdobem/)
+  
+  - 👉 &nbsp; [Telegram](https://t.me/joinchat/Cd-SEALZeg9iZWY5)
+
+
+
+![Lucas Vieira GitHub status](https://github-readme-stats.vercel.app/api/?username=lucasp0r&count_private=true&show_icons=true&theme=dark)
+
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucasp0r/lucasp0r/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
