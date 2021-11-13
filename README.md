@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi Devs,
 
-I'm Lucas Vieira, a DevOps Specialist living in Brazil.
+I’m Lucas Vieira, a DevOps Specialist living in Brazil i have been working with devops for 4 years, and in IT area 9 years. I started in development/support area, after 2 years i switched to infrasctructure where after a few years working with the common infrastructure, i decided to move to the Cloud, where I fell even more in love with the area :D
+
 
 - 🔭 &nbsp; I’m currently working in Zup IT
 
@@ -20,6 +21,19 @@ I'm Lucas Vieira, a DevOps Specialist living in Brazil.
 
   - 👉 &nbsp; [Linkedin](https://www.linkedin.com/in/lucasvieirap0r/)
 
+
+### My Community Project
+
+  I'm trying to help peoples to enter in technology area, in Brazil, most part of the population dont have a guidance to study. Actually we have had a défict for 500k workers in IT by year. We need more education because more people can enjoy in IT, and that is my proposite with @devsdobem.
+
+  - 👉 &nbsp; [Instagram](https://www.instagram.com/devsdobem/)
+
+  - 👉 &nbsp; [Twitter](https://twitter.com/devsdobem/)
+  
+  - 👉 &nbsp; [Telegram - Group created to help ppls to enjoy in IT](https://t.me/joinchat/Cd-SEALZeg9iZWY5)
+
+
+### My github stats.
 
 
 ![Lucas Vieira GitHub status](https://github-readme-stats.vercel.app/api/?username=lucasp0r&count_private=true&show_icons=true&theme=dark)
