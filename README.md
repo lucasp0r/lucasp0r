@@ -24,7 +24,7 @@ I’m Lucas Vieira, a DevOps Specialist living in Brazil i have been working wit
 
 ### My Community Project
 
-  I'm trying to help peoples to enter in technology area, in Brazil, most part of the population dont have a guidance to study. Actually we have had a défict for 500k workers in IT by year. We need more education because more people can enjoy in IT, and that is my proposite with @devsdobem.
+  I'm trying to help peoples to enter in technology area, in Brazil, most part of the population dont have a guidance to study. Actually we have had a défict for 500k workers in IT by year. My proposite with @devsdobem is help them with the max as i can.
 
   - 👉 &nbsp; [Instagram](https://www.instagram.com/devsdobem/)
 
