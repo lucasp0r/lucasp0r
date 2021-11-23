@@ -23,7 +23,6 @@
 
   - 👉 &nbsp; [Linkedin](https://www.linkedin.com/in/lucasvieirap0r/)
 
-### My Community Project
 
 ### My Community Project
 
