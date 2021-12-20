@@ -5,7 +5,7 @@
 
   I'm Lucas Vieira, a DevOps Specialist living in Brazil, i have been working with devops belong 4 years, and in Technology area 9 years. I started in development/support, after 2 years i switched to infrasctructure where after a few years working with the common infrastructure i decided to move to the Cloud/DevOps, where I fell even more in love with the IT :D
 
-- 🔭 &nbsp; I’m currently working in Zup IT
+- 🔭 &nbsp; I’m currently working in Caylent
 
 - 🌱 &nbsp; I’m currently learning everyday about Cloud Techs & DevOps and also trying to provide the best fit for every cloud :)
 
