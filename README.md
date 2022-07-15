@@ -1,6 +1,6 @@
 ### Hi Devs,
 
-I’m Lucas Vieira, a DevOps Specialist living in Brazil i have been working with devops for 4 years, and in IT area 9 years. I started in development/support area, after 2 years i switched to infrasctructure where after a few years working with the common infrastructure, i decided to move to the Cloud, where I fell even more in love with the area :D
+I’m Lucas Vieira, a DevOps Specialist living in Brazil i have been working with devops for 4 years, and in IT area 9 years. I started in development/support area, after 2 years i switched to infrasctructure where i starting in love to infra/cloud/devops in general. :D 
 
 
 - 🔭 &nbsp; I’m currently working in Caylent
