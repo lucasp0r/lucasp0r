@@ -3,7 +3,7 @@
 
 ![lencois](https://user-images.githubusercontent.com/21229105/141657554-8d1ff427-2cc2-4993-a0a0-26294aea03cd.png)
 
-I’m Lucas Vieira, a DevOps Specialist living in Brazil i have been working with devops for 4 years, and in IT area 9 years. I started in development/support area, after 2 years i switched to infrasctructure where i starting in love to infra/cloud/devops in general. :D 
+I'm Lucas Vieira, a DevOps Specialist living in Brazil. I started to work in IT 10 years ago. I really appreciate the CNCF world, automations, and cloud ecosystem its what moves my day ;d
 
 - 🔭 &nbsp; I’m currently working in Caylent
 
