@@ -1,6 +1,6 @@
 ### Hi Devs,
 
-I'm Lucas Vieira, a DevOps Specialist living in Brazil. I started to work in IT 10 years ago. I really appreciate the CNCF world, automations, and cloud ecosystem its what moves my day ;d
+I'm Lucas Vieira, a DevOps Specialist living in Brazil. I started to work in IT 12 years ago. I really appreciate the CNCF world, automations, and cloud ecosystem its what moves my day ;d
 
 
 - 🌱 &nbsp; I’m currently learning everyday about Cloud Techs & DevOps and also trying to provide the best fit for every cloud :)
